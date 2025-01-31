@@ -1,5 +1,4 @@
 import 'package:air_travel/SignUp/presentation/widgets/appBar_SignUp_widget.dart';
-import 'package:air_travel/travel/presentation/widgets/FavoritesTexts_widget.dart';
 import 'package:air_travel/utils/AppColors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

@@ -7,7 +7,6 @@ import 'package:air_travel/travel/presentation/pages/MoreDetails_page.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-import 'travel/presentation/widgets/TourPackage_widget.dart';
 
 GoRouter router = GoRouter(
   initialLocation: '/',
